@@ -1,0 +1,14 @@
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\bin\Debug\net7.0\first.exe
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\bin\Debug\net7.0\first.deps.json
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\bin\Debug\net7.0\first.runtimeconfig.json
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\bin\Debug\net7.0\first.dll
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\bin\Debug\net7.0\first.pdb
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.AssemblyInfo.cs
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.dll
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\refint\first.dll
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.pdb
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\first.genruntimeconfig.cache
+C:\Users\bencl\OneDrive\Desktop\Github\prioritek\first\obj\Debug\net7.0\ref\first.dll
