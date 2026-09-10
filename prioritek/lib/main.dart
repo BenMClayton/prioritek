@@ -20,11 +20,6 @@ class PrioritekApp extends StatelessWidget {
         colorScheme: scheme,
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFF090D14),
-        cardTheme: const CardTheme(
-          color: Color(0xFF111722),
-          elevation: 0,
-          margin: EdgeInsets.zero,
-        ),
       ),
       home: const PriorityBoard(),
     );
